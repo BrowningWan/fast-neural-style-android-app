@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.group.ag.ag_group_tensorflow4android_v11.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="To Dear Sansa!"
+        android:textSize="60dp"
+        android:fontFamily="cursive"
+        android:gravity="center"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        >
+
+        <com.flurgle.camerakit.CameraView
+            android:layout_centerHorizontal="true"
+            android:id="@+id/camera"
+            android:layout_width="400dp"
+            android:layout_height="400dp" />
+
+        <ImageView
+            android:layout_centerHorizontal="true"
+            android:id="@+id/Result"
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:visibility="gone"/>
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:id="@+id/recyclerview">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>
