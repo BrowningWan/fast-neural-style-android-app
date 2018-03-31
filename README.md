@@ -7,3 +7,8 @@ The python code [here](https://github.com/BrowningWan/fast-neural-style-android-
 
 The [eval.py](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/fast-neural-style-train%26test/eval.py) file was edited to product a .pb model file while converting the image. Then we deployed the .pb model into [Camera_transfer.py](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/fast-neural-style-train%26test/Camera_transfer.py), using opencv and a camera to make a real-time style-transfer.
 The [Create_pb_file_4Android.py](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/fast-neural-style-train%26test/Create_pb_file_4Android.py) allows you to create the .pb model used in [AG_Group_tensorflow4Android](https://github.com/BrowningWan/fast-neural-style-android-app/tree/master/AG_Group_tensorflow4Android) project, this project was build with Android Studio.
+
+## Samples:
+
+###Real-time style transfer:
+[](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/ezgif.com-video-to-gif.gif)
