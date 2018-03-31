@@ -66,10 +66,10 @@ python train.py -c conf/wave.yml
 ```
 tensorboard --logdir models/wave/
 ```
-https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/fast-neural-style-train%26test/conf/bossK.yml
+
 Checkpoints will be written to "models/wave/".
 
-View the [configuration file]() for details.
+View the [configuration file](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/fast-neural-style-train%26test/conf/bossK.yml) for details.
 
 ## Compile Android project:
 To compiling the android project, just open the project [AG_Group_tensorflow4Android](https://github.com/BrowningWan/fast-neural-style-android-app/tree/master/AG_Group_tensorflow4Android), then replace your sdk path, click run.
