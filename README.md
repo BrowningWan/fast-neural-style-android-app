@@ -12,8 +12,8 @@ The [Create_pb_file_4Android.py](https://github.com/BrowningWan/fast-neural-styl
 
 | project | style | sample |
 | :---: | :----: | :----: |
-| Real-time style transfer | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/wave.jpg) | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/ezgif.com-video-to-gif1%20(1).gif) |
-| Android_project | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/cubist.jpg) | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/ezgif.com-video-to-gif.gif) |
+| Real-time style transfer | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/style_wave.jpg) | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/ezgif.com-video-to-gif1%20(1).gif) |
+| Android_project | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/style_cubist.jpg) | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/ezgif.com-video-to-gif.gif) |
 
 ## Requirements and Prerequisites:
 - Python 2.7.x or Python 3.5.x
