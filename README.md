@@ -10,7 +10,7 @@ The [Create_pb_file_4Android.py](https://github.com/BrowningWan/fast-neural-styl
 
 ## Samples:
 
-### Real-time style transfer:
 | project | style | sample |
 | :---: | :----: | :----: |
+| Real-time style transfer | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/wave.jpg) | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/ezgif.com-video-to-gif1%20(1).gif) |
 | Android_project | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/cubist.jpg) | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/ezgif.com-video-to-gif.gif) |
