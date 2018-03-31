@@ -81,13 +81,17 @@ python Create_pb_file_4Android.py --model_file <your path to .ckpt> --image_file
 ```
 
 Then put the .pb model file into [AG_Group_tensorflow4Android/app/src/main/assets/](https://github.com/BrowningWan/fast-neural-style-android-app/tree/master/AG_Group_tensorflow4Android/app/src/main/assets), add your button and java code in [MainActivity.java](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/AG_Group_tensorflow4Android/app/src/main/java/com/group/ag/ag_group_tensorflow4android_v11/MainActivity.java). 
+
 Remember you will need to put a corresponding picture for your own button. 
+
 The left AG logo button allows you switch the camera and reset the app after transfer done. 
+
 In line 56 of [MainActivity.java](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/AG_Group_tensorflow4Android/app/src/main/java/com/group/ag/ag_group_tensorflow4android_v11/MainActivity.java), I give a 90 rotatation to the output, some phone may not need this rotatation, just delete this line, or change the parameter to adapt to your phone.
 
 If you like our project, please give us a star, thx!
 
 If you have any questions and suggests, or just want to discuss the deep learning deployed to mobile phone, welcome to join us in WeChat:
-![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/223.png)
+
+| :---: | ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/223.png) | :----: |
 
 Tips: This project was made for dear Sansa, my dear lover! (you can also change the text shown in app in line 13 of [activity_main.xml](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/AG_Group_tensorflow4Android/app/src/main/res/layout/activity_main.xml), give a suprise to your girl friend XD)
