@@ -93,6 +93,6 @@ If you like our project, please give us a star, thx!
 If you have any questions and suggests, or just want to discuss the deep learning deployed to mobile phone, welcome to join us in WeChat:
 
 ![](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/223.png)
-<img width="150" height="150" src="https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/223.png"/>
+<img width="270" height="433" src="https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/img/223.png"/>
 
 Tips: This project was made for dear Sansa, my dear lover! (you can also change the text shown in app in line 13 of [activity_main.xml](https://github.com/BrowningWan/fast-neural-style-android-app/blob/master/AG_Group_tensorflow4Android/app/src/main/res/layout/activity_main.xml), give a suprise to your girl friend XD)
